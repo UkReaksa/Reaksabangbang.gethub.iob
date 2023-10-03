@@ -1,0 +1,69 @@
+.pic {
+    margin-left: 200px;
+    font-size: 100px;
+    margin-top: 100px;
+
+}
+
+.pw {
+    margin-top: 20px;
+    margin-left: 320px;
+    font-size: 30px;
+
+}
+
+.bu {
+    margin: auto;
+    margin-left: 320px;
+    font-size: 50px;
+
+
+}
+
+.title {
+
+    margin-top: 20px;
+    margin-left: 260px;
+    font-size: 20px;
+}
+
+.loing {
+    margin-left: 420px;
+    margin-top: 10px;
+transform: scale(1.10);
+
+}
+
+body {
+    background-color: rgb(179, 239, 247);
+    margin: 0;
+}
+
+input {
+    width: 300px;
+    height: 3vh;
+    padding-left: 10px;
+    font-size: 20px;
+
+}
+
+button {
+    background-color: rgb(103, 227, 117);
+
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    margin: auto;
+    align-items: center;
+
+}
+
+.box {
+    width: 800px;
+    height: 50vh;
+    background-color: rgb(80, 102, 227);
+    margin: auto;
+    align-items: center;
+}
